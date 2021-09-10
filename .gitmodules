@@ -1,0 +1,7 @@
+[submodule "kevald/stlkrn"]
+	path = kevald/stlkrn
+	url = git@github.com:SilverTuxedo/stlkrn.git
+[submodule "kevald/libffi"]
+	path = kevald/libffi
+	url = git@github.com:SilverTuxedo/libffi.git
+	branch = feature/cmake-build-configs
