@@ -1,3 +1,5 @@
+<img align="right" src=".github/keval-logo-small.png" />
+
 # Keval
 
 Keval allows you to call arbitrary Windows kernel-mode functions from user mode, even (and primarily) on another machine. 
