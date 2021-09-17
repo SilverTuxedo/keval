@@ -79,6 +79,8 @@ See [Getting started](docs/getting_started.md)
 
 - [ ] More logs, an option for verbose logging.
 
+- [ ] 32-bit support. Currently, `libffi` does not compile for 32-bit, so the driver isn't available. However, the client is able to run on a 32-bit machine.
+
 #### Won't do:
 
 - [ ] Support structs as parameters/return values. There seems to be no use case, as most if not all kernel functions use pointers when passing structures.
